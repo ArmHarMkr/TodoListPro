@@ -1,0 +1,30 @@
+E:\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.DAL.deps.json
+E:\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.DAL.dll
+E:\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.DAL.pdb
+E:\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.Domain.dll
+E:\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.csproj.AssemblyReference.cache
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.AssemblyInfoInputs.cache
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.AssemblyInfo.cs
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.csproj.CoreCompileInputs.cache
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.csproj.CopyComplete
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.dll
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\refint\ToDoListPro.DAL.dll
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.pdb
+E:\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ref\ToDoListPro.DAL.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.DAL.deps.json
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.DAL.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.DAL.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.Domain.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\bin\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.csproj.AssemblyReference.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.AssemblyInfoInputs.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.AssemblyInfo.cs
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.csproj.CoreCompileInputs.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.csproj.CopyComplete
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\refint\ToDoListPro.DAL.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ToDoListPro.DAL.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.DAL\obj\Debug\net6.0\ref\ToDoListPro.DAL.dll

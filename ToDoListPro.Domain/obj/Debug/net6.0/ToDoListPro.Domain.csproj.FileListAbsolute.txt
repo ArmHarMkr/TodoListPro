@@ -1,0 +1,24 @@
+E:\ToDoListPro\ToDoListPro.Domain\bin\Debug\net6.0\ToDoListPro.Domain.deps.json
+E:\ToDoListPro\ToDoListPro.Domain\bin\Debug\net6.0\ToDoListPro.Domain.dll
+E:\ToDoListPro\ToDoListPro.Domain\bin\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.csproj.AssemblyReference.cache
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.AssemblyInfoInputs.cache
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.AssemblyInfo.cs
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.csproj.CoreCompileInputs.cache
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.dll
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\refint\ToDoListPro.Domain.dll
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ref\ToDoListPro.Domain.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\bin\Debug\net6.0\ToDoListPro.Domain.deps.json
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\bin\Debug\net6.0\ToDoListPro.Domain.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\bin\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.csproj.AssemblyReference.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.AssemblyInfoInputs.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.AssemblyInfo.cs
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.csproj.CoreCompileInputs.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\refint\ToDoListPro.Domain.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.Domain\obj\Debug\net6.0\ref\ToDoListPro.Domain.dll

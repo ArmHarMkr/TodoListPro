@@ -1,0 +1,807 @@
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\appsettings.Development.json
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\appsettings.json
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.staticwebassets.runtime.json
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.exe
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.deps.json
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.runtimeconfig.json
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.pdb
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Azure.Core.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Azure.Identity.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Humanizer.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.CodeDom.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Memory.Data.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Text.Json.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.DAL.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.Domain.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.DAL.pdb
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.csproj.AssemblyReference.cache
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.GeneratedMSBuildEditorConfig.editorconfig
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.AssemblyInfoInputs.cache
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.AssemblyInfo.cs
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.csproj.CoreCompileInputs.cache
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.MvcApplicationPartsAssemblyInfo.cache
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.RazorAssemblyInfo.cache
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.RazorAssemblyInfo.cs
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets.build.json
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets.development.json
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\scopedcss\bundle\ToDoListPro.styles.css
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\scopedcss\projectbundle\ToDoListPro.bundle.scp.css
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.csproj.CopyComplete
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.dll
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\refint\ToDoListPro.dll
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.pdb
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.genruntimeconfig.cache
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ref\ToDoListPro.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\mscorlib.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\netstandard.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Console.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Core.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Data.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Linq.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Memory.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Web.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Windows.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.MvcApplicationPartsAssemblyInfo.cs
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.Service.dll
+E:\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.Service.pdb
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets\msbuild.ToDoListPro.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoListPro.props
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoListPro.props
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoListPro.props
+E:\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets.pack.json
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\appsettings.Development.json
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\appsettings.json
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.staticwebassets.runtime.json
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.exe
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.deps.json
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.runtimeconfig.json
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\mscorlib.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\netstandard.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Console.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Core.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Data.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Linq.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Memory.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Web.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Windows.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Azure.Core.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Azure.Identity.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Humanizer.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.CodeDom.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Memory.Data.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Text.Json.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.DAL.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.Domain.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.Service.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.DAL.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\ToDoListPro.Service.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.csproj.AssemblyReference.cache
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.AssemblyInfoInputs.cache
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.AssemblyInfo.cs
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.csproj.CoreCompileInputs.cache
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.MvcApplicationPartsAssemblyInfo.cs
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.RazorAssemblyInfo.cache
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.RazorAssemblyInfo.cs
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets\msbuild.ToDoListPro.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoListPro.props
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoListPro.props
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoListPro.props
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets.pack.json
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets.build.json
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\staticwebassets.development.json
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\scopedcss\bundle\ToDoListPro.styles.css
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\scopedcss\projectbundle\ToDoListPro.bundle.scp.css
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.csproj.CopyComplete
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\refint\ToDoListPro.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ToDoListPro.genruntimeconfig.cache
+E:\.Net projects\ToDoListPro\ToDoListPro\obj\Debug\net6.0\ref\ToDoListPro.dll
+E:\.Net projects\ToDoListPro\ToDoListPro\bin\Debug\net6.0\CsvHelper.dll

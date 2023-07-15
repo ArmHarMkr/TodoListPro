@@ -1,0 +1,34 @@
+E:\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Service.deps.json
+E:\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Service.dll
+E:\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Service.pdb
+E:\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.DAL.dll
+E:\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Domain.dll
+E:\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.DAL.pdb
+E:\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.csproj.AssemblyReference.cache
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.AssemblyInfoInputs.cache
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.AssemblyInfo.cs
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.csproj.CoreCompileInputs.cache
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.csproj.CopyComplete
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.dll
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\refint\ToDoListPro.Service.dll
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.pdb
+E:\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ref\ToDoListPro.Service.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Service.deps.json
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Service.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Service.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.DAL.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Domain.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.DAL.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\bin\Debug\net6.0\ToDoListPro.Domain.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.csproj.AssemblyReference.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.AssemblyInfoInputs.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.AssemblyInfo.cs
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.csproj.CoreCompileInputs.cache
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.csproj.CopyComplete
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\refint\ToDoListPro.Service.dll
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ToDoListPro.Service.pdb
+E:\.Net projects\ToDoListPro\ToDoListPro.Service\obj\Debug\net6.0\ref\ToDoListPro.Service.dll
